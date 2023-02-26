@@ -1,0 +1,14 @@
+D:\Documents\Github\haunteroller\haunteroller\bin\Debug\netcoreapp3.1\haunteroller.exe
+D:\Documents\Github\haunteroller\haunteroller\bin\Debug\netcoreapp3.1\haunteroller.deps.json
+D:\Documents\Github\haunteroller\haunteroller\bin\Debug\netcoreapp3.1\haunteroller.runtimeconfig.json
+D:\Documents\Github\haunteroller\haunteroller\bin\Debug\netcoreapp3.1\haunteroller.runtimeconfig.dev.json
+D:\Documents\Github\haunteroller\haunteroller\bin\Debug\netcoreapp3.1\haunteroller.dll
+D:\Documents\Github\haunteroller\haunteroller\bin\Debug\netcoreapp3.1\haunteroller.pdb
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.csproj.AssemblyReference.cache
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.AssemblyInfoInputs.cache
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.AssemblyInfo.cs
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.csproj.CoreCompileInputs.cache
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.dll
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.pdb
+D:\Documents\Github\haunteroller\haunteroller\obj\Debug\netcoreapp3.1\haunteroller.genruntimeconfig.cache

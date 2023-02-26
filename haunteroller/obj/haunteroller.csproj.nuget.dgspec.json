@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Github\\haunteroller\\haunteroller\\haunteroller.csproj": {}
+    "D:\\Documents\\Github\\HouseOnTheHill-CustomHauntRoller-Console\\haunteroller\\haunteroller.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Github\\haunteroller\\haunteroller\\haunteroller.csproj": {
+    "D:\\Documents\\Github\\HouseOnTheHill-CustomHauntRoller-Console\\haunteroller\\haunteroller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Github\\haunteroller\\haunteroller\\haunteroller.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\HouseOnTheHill-CustomHauntRoller-Console\\haunteroller\\haunteroller.csproj",
         "projectName": "haunteroller",
-        "projectPath": "D:\\Documents\\Github\\haunteroller\\haunteroller\\haunteroller.csproj",
+        "projectPath": "D:\\Documents\\Github\\HouseOnTheHill-CustomHauntRoller-Console\\haunteroller\\haunteroller.csproj",
         "packagesPath": "C:\\Users\\Peter Hart\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Github\\haunteroller\\haunteroller\\obj\\",
+        "outputPath": "D:\\Documents\\Github\\HouseOnTheHill-CustomHauntRoller-Console\\haunteroller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
